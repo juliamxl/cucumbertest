@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "cucumber": "^6.0.7"
+  },
+  "dependencies": {
+    "puppeteer": "^21.4.0"
+  }
+}
